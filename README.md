@@ -31,7 +31,7 @@
 - 🔧 Product and Engineering Manager with a strong business mindset (MBA in Ops & Tech)
 - 🚀 Built and led SaaS products from scratch, secured investment and coordinated multi-disciplinary teams
 - 🌐 Experience with full-cycle product management, agile teams and software architecture
-- 💼 Past roles include CEO, COO, Product Manager, Consultant and Developer
+- 💼 Past roles include CEO, COO, Product Manager, Engineering Manager, Bizdev, Consultant and Developer
 - 📈 Passionate about aligning business strategy with tech, and building impactful solutions
 
 ---
@@ -60,8 +60,8 @@
 ### 🐚 Minishell  
 > A custom-built UNIX shell clone created from scratch. Handles parsing, piping, redirections and built-ins.
 
-### 💡 Business Plan Generator  
-> Automates feasibility studies and grant applications for European funds. Used in VisionTechLab consulting projects.
+### 💡 So_Long and Cub3d 
+> A game in 2D (So_Long) and a game in 3D (Cub3d).
 
 ### 📱 Health App Platform  
 > Cross-platform nutrition and health mobile application. Built from scratch with hybrid front-end and MVC back-end.
@@ -69,6 +69,13 @@
 🔗 Check more on: [https://github.com/jpjpcs](https://github.com/jpjpcs)
 
 ---
+
+
+## This is my current status at school
+
+<!-- [![jode-jes's 42 stats](https://badge42.vercel.app/api/v2/cliecgu3i001108l40dwr9zlx/stats?cursusId=21&coalitionId=piscine)](https://profile.intra.42.fr/users/jode-jes) -->
+[![jode-jes's 42 stats](https://badge.mediaplus.ma/darkblue/jode-jes?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/jode-jes)
+#
 
 ## 📊 GitHub Stats
 
