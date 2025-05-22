@@ -67,7 +67,7 @@
 > Cross-platform nutrition and health mobile application. Built from scratch with hybrid front-end and MVC back-end.
 
 ### 📱 SaaS HR App Platform  
-> Product transformation made to an "Automatic headhunting assistant" operating in the HR area and running on top of Linkedin and other job boards.
+> Product transformation made to an "automatic headhunting assistant" operating in the HR area and running on top of Linkedin and other job boards.
 
 🔗 Check more on: [https://github.com/jpjpcs](https://github.com/jpjpcs)
 
